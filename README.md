@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisplkarora&label=Profile%20views&color=0e75b6&style=flat" alt="thisisplkarora" /> </p>
 
-- 🔭 I’m currently working on **Cognifyz Technologies Internship**
+- 🔭 I’m currently working on **Cognifyz Technologies **
 
 - 🌱 I’m currently learning **Statistics analysis**
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **thisispalakarora@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/PALAK%20ARORA/Downloads/Palak's%20Resume.pdf](file:///C:/Users/PALAK%20ARORA/Downloads/Palak's%20Resume.pdf)
+- 📄 Know about my experiences [https://www.datascienceportfol.io/DA_PalakArora)
 
-- ⚡ Fun fact **I decode digital puzzles.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
