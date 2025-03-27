@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisplkarora&label=Profile%20views&color=0e75b6&style=flat" alt="thisisplkarora" /> </p>
 
-- 🔭 I’m currently working on **Cognifyz Technologies **
+- 🔭 I’m currently working on **CodeBasics**
 
-- 🌱 I’m currently learning **Statistics analysis**
+- 🌱 I’m currently learning **Statistics & Python analysis**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/palakarora](https://www.novypro.com/profile_projects/palakarora)
 
-- 💬 Ask me about **Power BI, SQL , Python & Excel**
+- 💬 Ask me about **Power BI, SQL & Excel**
 
 - 📫 How to reach me **thisispalakarora@gmail.com**
 
