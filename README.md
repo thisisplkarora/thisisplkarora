@@ -1,6 +1,6 @@
 ![logo](https://github.com/thisisplkarora/Palak-Arora-Banner/blob/main/Palak%20Arora%20Header%20GIF.gif)
 <h1 align="center">Hi 👋, I'm Palak Arora</h1>
-<h3 align="center">A passionate Data Analyst from Delhi, India</h3>
+<h3 align="center">A passionate Data Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisplkarora&label=Profile%20views&color=0e75b6&style=flat" alt="thisisplkarora" /> </p>
